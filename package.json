@@ -8,7 +8,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.1.9",
     "typescript": "^4.5.4",
     "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
